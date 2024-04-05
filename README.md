@@ -1,42 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhais Olatundun
-========================================================================================================================================
 
-Financial Software Developer
------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Muhais!
 
-As a high school student, my passion for coding and finance drives me to engage in diverse programs actively, expanding my proficiency in programming and financial markets. My background as a soccer athlete instills qualities like teamwork and resilience, which I seamlessly apply to academics. I aim to excel in merging technology with finance to address real-world challenges and am eager to connect with like-minded professionals and mentors.
-
-* 🌍  I'm based in Illinois
-* 🖥️  See my portfolio at [monnk.com](http://monnk-code.github.io/PORTFOLIO/)
-* ✉️  You can contact me at monnk101@gmail.com
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Innovative Projects
-* ⚡  I love playing soccer
-
-  
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
-### Skills
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" />
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+[![Website](https://img.shields.io/badge/monnk.code-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](http://monnk-code.github.io/PORTFOLIO/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/muhais-olatundun-0bb273283/)](https://www.linkedin.com/in/muhais-olatundun-0bb273283/)
+
+
+
+* 🌍  I'm based in Illinois 
+* 🖥️  See my portfolio at [monnk.com](http://monnk-code.github.io/PORTFOLIO/)
+* ✉️  You can contact me at  <a href="mailto:monnk101@gmail.com">monnk101@gmail.com"</a>
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on Innovative Projects              
+* ⚽  I love playing soccer
+
+
+| <a href="http://www.github.com/MONNK-CODE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MONNK-CODE&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>" |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MONNK-CODE&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Muhais's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONNK-CODE&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/MONNK-CODE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhais-olatundun-0bb273283" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Languages and Tools:
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+ <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png">&nbsp; 
+ </div>
 
-### Badges
+</br>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MONNK-CODE"><img src="https://github-readme-stats.vercel.app/api?username=MONNK-CODE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MONNK-CODE's GitHub stats" /></a>
 
-<a href="http://www.github.com/MONNK-CODE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MONNK-CODE&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MONNK-CODE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONNK-CODE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
