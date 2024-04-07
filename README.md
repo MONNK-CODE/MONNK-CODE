@@ -18,8 +18,7 @@
 * ⚽  I love playing soccer
 
 
-| <a href="http://www.github.com/MONNK-CODE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MONNK-CODE&stroke=ffffff&background=transparent&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>" |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MONNK-CODE&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Muhais's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONNK-CODE&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MONNK-CODE&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Muhais's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONNK-CODE&theme=github_dark&layout=compact&hide_border=true" /></a>
 
 
 
