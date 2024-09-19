@@ -12,7 +12,7 @@
 
 * 🌍  I'm based in Illinois 
 * 🖥️  See my portfolio at [muhais.org](www.muhais.org)
-* ✉️  You can contact me at  <a href="mailto:monnk101@gmail.com">monnk101@gmail.com"</a>
+* ✉️  You can contact me at  <a href="mailto:monnk101@gmail.com">monnk101@gmail.com</a>
 * 🧠  I'm love learning New Things
 * 🤝  I'm open to collaborating on Innovative Projects              
 * ⚽  I love playing soccer
