@@ -4,7 +4,10 @@ I’m [**Muhais**](https://muhais.org), a Student studying Statistics + Data Sci
 
 I love web development and automating tasks.
 
-Outside of code, you’ll find me watching anime, playing soccer, or on social media. You can follow me on all platforms @mtherealmuhais where I post relatable content and my lifestyle.
+Outside of code, you’ll find me watching anime, playing soccer, or on social media. 
+
+You can follow me on all platforms (@therealmuhais), where I post relatable content and share my lifestyle.
+
 #### Fun Facts:
 
 * I'm an Egoist when it comes to Soccer.
